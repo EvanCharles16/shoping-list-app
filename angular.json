@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "shopping-list-app"
+    }
+  },
+  "defaultProject": "shopping-list-app",
+  "cli": {
+    "analytics": "8abf3e31-8680-468e-a306-f69db1d2defa"
+  }
 }
