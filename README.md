@@ -30,7 +30,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ---
 
-<h3>Planning Project</h3>
+<!-- <h3>Planning Project</h3>
 
 <div class="main">
 
@@ -96,14 +96,14 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
     padding: 0;
     margin:0
   }
-  
+
   .main {
     display: grid;
     grid-template-columns: 2fr 0.2fr 2fr;
     height: 100vh;
     width: 100vw;
     grid-gap: 10px;
-    grid-template-areas: 
+    grid-template-areas:
     "root root root"
     "header header header"
     "shoppingList . recipeBook"
@@ -123,7 +123,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
     grid-template-rows: 1fr;
     grid-area: root;
     border: 1px solid black;
-}    
+}
 
 h4{
     position: absolute;
@@ -253,4 +253,4 @@ margin-top : 20px;
     background-color: #4B1F49;
 }
 
-</style>
+</style> -->
